@@ -19,8 +19,3 @@ Sou apaixonado por transformar dados brutos em insights estratégicos e decisõe
 - **E-mail:** vinriibeiro@gmail.com
 
 ---
-
-### 📈 Estatísticas do GitHub
-
-![Estatísticas de Vinícius](https://github-readme-stats.vercel.app/api?username=vinriibeiro&show_icons=true&theme=radial)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vinriibeiro&layout=compact&theme=radial)
