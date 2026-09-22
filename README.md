@@ -16,7 +16,7 @@ Sou apaixonado por transformar dados brutos em insights estratégicos e decisõe
 ### 📫 Vamos nos conectar?
 
 - **LinkedIn:** [Vinícius Ribeiro](https://www.linkedin.com/in/vinriibeiro/)
-- **E-mail:** seu.email@exemplo.com
+- **E-mail:** vinriibeiro@gmail.com
 
 ---
 
