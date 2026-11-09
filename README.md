@@ -1,21 +1,13 @@
-# Olá, eu sou o Vinícius Ribeiro! 👋
+# Vinícius Ribeiro
 
-### 📊 Analista de Dados | Pós-graduando em Ciência de Dados
+### Analista de Dados | Pós-graduação em Ciência de Dados
 
-Sou apaixonado por transformar dados brutos em insights estratégicos e decisões de negócios. Atualmente, estou aprofundando meus conhecimentos em Ciência de Dados e desenvolvendo projetos práticos.
+Trabalho com SQL, Power BI e Python, com foco em análise de dados e modelos preditivos.
 
----
+**Tecnologias:** Power BI (intermediário), SQL, Excel (avançado), Python (básico, em evolução)
 
-### 🛠️ Tecnologias e Ferramentas
+**Projeto em destaque:** [Além do Placar](https://github.com/vinriibeiro/alem-do-placar): previsão de desempenho no Brasileirão Série A com pipeline em Python, Machine Learning com validação temporal e dashboard em Power BI.
 
-- **Análise e BI:** Power BI (Intermediário), Excel Avançado
-- **Linguagens e Bancos de Dados:** SQL, Python (Básico)
+**Portfólio:** [vinriibeiro.github.io](https://vinriibeiro.github.io)
 
----
-
-### 📫 Vamos nos conectar?
-
-- **LinkedIn:** [Vinícius Ribeiro](https://www.linkedin.com/in/vinriibeiro/)
-- **E-mail:** vinriibeiro@gmail.com
-
----
+**Contato:** [LinkedIn](https://www.linkedin.com/in/vinriibeiro/)
