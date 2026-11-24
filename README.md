@@ -1,6 +1,6 @@
 # Vinícius Ribeiro
 
-**Cientista de Dados** · Pós-graduado em Ciência de Dados · cursando pós em Estatística Aplicada para Data Science
+**Cientista de Dados** · Pós-graduado em Ciência de Dados · cursando pós em Estatística Aplicada para Data Science e Graduação em Ciência da Computação.
 
 Analista de Dados na Central IT, alocado no Ministério do Desenvolvimento e Assistência Social (MDS): modelagem de dados em PostgreSQL e dashboards em Power BI.
 
